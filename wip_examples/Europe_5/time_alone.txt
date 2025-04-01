@@ -1,0 +1,8 @@
+Rome, Italy -> Paris, France: transit, time: 13.94, distance: 1374.43, cost: 687.22
+Paris, France -> Prague, Czech Republic: car, time: 10.80, distance: 1034.68, cost: 81.38
+Prague, Czech Republic -> Barcelona, Spain: car, time: 17.31, distance: 1715.45, cost: 134.92
+Barcelona, Spain -> Vienna, Austria: car, time: 17.98, distance: 1778.39, cost: 139.87
+Total time: 60.04 hours.
+Total distance: 5902.95 km.
+Total cost: 1043.38 local currency.
+Total weighted cost: 0.19.

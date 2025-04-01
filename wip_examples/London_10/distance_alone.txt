@@ -1,0 +1,12 @@
+Buckingham Palace -> The British Museum: foot, time: 0.61, distance: 2.65, cost: 0.00
+The British Museum -> The Shard: foot, time: 0.91, distance: 3.94, cost: 0.00
+The Shard -> The Tower of London: foot, time: 0.34, distance: 1.52, cost: 0.00
+The Tower of London -> St Paul's Cathedral: foot, time: 0.46, distance: 1.93, cost: 0.00
+St Paul's Cathedral -> The London Eye: foot, time: 0.55, distance: 2.33, cost: 0.00
+The London Eye -> Big Ben and the Houses of Parliament: foot, time: 0.14, distance: 0.61, cost: 0.00
+Big Ben and the Houses of Parliament -> Hyde Park : foot, time: 0.74, distance: 3.15, cost: 0.00
+Hyde Park  -> The Victoria and Albert Museum: car, time: 0.11, distance: 1.74, cost: 0.12
+The Victoria and Albert Museum -> The Natural History Museum: car, time: 0.03, distance: 0.15, cost: 0.01
+Total time: 3.89 hours.
+Total distance: 18.01 km.
+Total cost: 0.13 local currency.

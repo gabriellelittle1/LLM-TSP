@@ -1,0 +1,8 @@
+Prague, Czech Republic -> Barcelona, Spain: foot, time: 362.07, distance: 1585.92, cost: 0.00
+Barcelona, Spain -> Vienna, Austria: bike, time: 101.99, distance: 1887.86, cost: 0.00
+Vienna, Austria -> Paris, France: bike, time: 70.07, distance: 1309.59, cost: 0.00
+Paris, France -> Rome, Italy: bike, time: 82.61, distance: 1531.76, cost: 0.00
+Total time: 616.74 hours.
+Total distance: 6315.13 km.
+Total cost: 0.00 local currency.
+Total weighted cost: 0.00.

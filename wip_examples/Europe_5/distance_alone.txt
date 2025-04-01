@@ -1,0 +1,8 @@
+Vienna, Austria -> Paris, France: foot, time: 263.19, distance: 1160.40, cost: 0.00
+Paris, France -> Prague, Czech Republic: foot, time: 225.99, distance: 993.65, cost: 0.00
+Prague, Czech Republic -> Barcelona, Spain: foot, time: 362.07, distance: 1585.92, cost: 0.00
+Barcelona, Spain -> Rome, Italy: foot, time: 41.99, distance: 928.53, cost: 0.00
+Total time: 893.25 hours.
+Total distance: 4668.51 km.
+Total cost: 0.00 local currency.
+Total weighted cost: 2.95.

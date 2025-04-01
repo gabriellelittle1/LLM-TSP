@@ -1,0 +1,6 @@
+TSP Approximate Path: ['Amsterdam, Netherlands, Europe', 'London, England, Europe', 'Paris, France, Europe', 'Barcelona, Spain, Europe', 'Rome, Italy, Europe']
+Total distance: 2704.45 km.
+Amsterdam, Netherlands -> London, England, foot, distance: 397.71 km.
+London, England -> Paris, France, foot, distance: 373.50 km.
+Paris, France -> Barcelona, Spain, foot, distance: 1004.71 km.
+Barcelona, Spain -> Rome, Italy, foot, distance: 928.53 km.

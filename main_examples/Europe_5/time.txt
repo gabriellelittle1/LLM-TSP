@@ -1,0 +1,6 @@
+TSP Approximate Path: ['Amsterdam, Netherlands, Europe', 'London, England, Europe', 'Paris, France, Europe', 'Rome, Italy, Europe', 'Barcelona, Spain, Europe']
+Total time: 39.71 hours.
+Amsterdam, Netherlands -> London, England, car, time: 6.99 hours.
+London, England -> Paris, France, transit, time: 4.27 hours.
+Paris, France -> Rome, Italy, transit, time: 13.94 hours.
+Rome, Italy -> Barcelona, Spain, car, time: 14.52 hours.

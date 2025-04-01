@@ -1,0 +1,6 @@
+Port Douglas -> Townsville: foot, time: 92.42, distance: 411.48, cost: 0.00
+Townsville -> Cairns: transit, time: 6.27, distance: 314.82, cost: 70.00
+Cairns -> Noosa Heads: transit, time: 28.11, distance: 1531.33, cost: 472.00
+Total time: 126.80 hours.
+Total distance: 2257.63 km.
+Total cost: 542.00 local currency.

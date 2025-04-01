@@ -1,0 +1,6 @@
+Cairns -> Townsville: car, time: 4.17, distance: 347.81, cost: 42.50
+Townsville -> Noosa Heads: car, time: 13.64, distance: 1250.78, cost: 152.84
+Noosa Heads -> Port Douglas: car, time: 18.66, distance: 1661.81, cost: 203.07
+Total time: 36.48 hours.
+Total distance: 3260.40 km.
+Total cost: 398.42 local currency.

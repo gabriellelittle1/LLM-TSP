@@ -1,0 +1,12 @@
+The British Museum -> The Shard: bike, time: 0.33, distance: 4.64, cost: 0.00
+The Shard -> St Paul's Cathedral: bike, time: 0.14, distance: 1.79, cost: 0.00
+St Paul's Cathedral -> Big Ben and the Houses of Parliament: bike, time: 0.15, distance: 2.80, cost: 0.00
+Big Ben and the Houses of Parliament -> Buckingham Palace: bike, time: 0.10, distance: 1.23, cost: 0.00
+Buckingham Palace -> The London Eye: bike, time: 0.14, distance: 1.98, cost: 0.00
+The London Eye -> The Tower of London: bike, time: 0.27, distance: 4.52, cost: 0.00
+The Tower of London -> The Natural History Museum: bike, time: 0.60, distance: 9.28, cost: 0.00
+The Natural History Museum -> Hyde Park : bike, time: 0.21, distance: 2.16, cost: 0.00
+Hyde Park  -> The Victoria and Albert Museum: bike, time: 0.21, distance: 2.15, cost: 0.00
+Total time: 2.14 hours.
+Total distance: 30.54 km.
+Total cost: 0.00 local currency.

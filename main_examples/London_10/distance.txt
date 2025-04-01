@@ -1,0 +1,11 @@
+TSP Approximate Path: ['The Victoria and Albert Museum, London', 'The Natural History Museum, London', 'Hyde Park, London', 'Buckingham Palace, London', 'Westminster Abbey, London', 'The Palace of Westminster and Big Ben, London', 'The London Eye, London', 'The Tower of London, London', 'The Shard, London', 'The British Museum, London']
+Total distance: 15.96 km.
+The Victoria and Albert Museum -> The Natural History Museum, car, distance: 0.15 km.
+The Natural History Museum -> Hyde Park, car, distance: 1.59 km.
+Hyde Park -> Buckingham Palace, foot, distance: 1.89 km.
+Buckingham Palace -> Westminster Abbey, foot, distance: 1.12 km.
+Westminster Abbey -> The Palace of Westminster and Big Ben, foot, distance: 0.67 km.
+The Palace of Westminster and Big Ben -> The London Eye, foot, distance: 1.32 km.
+The London Eye -> The Tower of London, car, distance: 3.76 km.
+The Tower of London -> The Shard, foot, distance: 1.52 km.
+The Shard -> The British Museum, foot, distance: 3.94 km.

@@ -1,0 +1,6 @@
+Cairns -> Port Douglas: bike, time: 3.86, distance: 74.53, cost: 0.00
+Port Douglas -> Noosa Heads: bike, time: 90.55, distance: 1788.69, cost: 0.00
+Noosa Heads -> Townsville: bike, time: 66.86, distance: 1319.89, cost: 0.00
+Total time: 161.28 hours.
+Total distance: 3183.11 km.
+Total cost: 0.00 local currency.

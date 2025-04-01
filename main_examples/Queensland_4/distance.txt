@@ -1,0 +1,5 @@
+TSP Approximate Path: ['Port Douglas , Queensland', 'Cairns, Queensland', 'Townsville, Queensland', 'Noosa Heads, Queensland']
+Total distance: 1585.14 km.
+Port Douglas  -> Cairns, foot, distance: 66.08 km.
+Cairns -> Townsville, transit, distance: 314.82 km.
+Townsville -> Noosa Heads, transit, distance: 1204.24 km.

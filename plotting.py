@@ -5,7 +5,7 @@ from folium.plugins import MarkerCluster
 import networkx as nx
 import geopandas as gpd
 
-def plot_graph_and_path(G, tsp_path, positions, nodes, total_cost, p, map=True):
+def plot_graph_and_path(G, tsp_path, positions, nodes, total_cost, p, map=True, name = None):
 
     """ A function to plot the graph and the path, overlayed on a map (optional). """
     
@@ -67,12 +67,15 @@ def plot_graph_and_path(G, tsp_path, positions, nodes, total_cost, p, map=True):
     ax2.text(1.02, 0.5, legend_text, transform=ax2.transAxes, fontsize=12,
              verticalalignment='center', bbox=props)
 
-    ax2.set_title(f"TSP Path Total {priority_names[p]}: {total_cost:.2f} {priority_units[p]}")
+    if isinstance(total_cost, float):
+        ax2.set_title(f"TSP Path Total {priority_names[p]}: {total_cost:.2f} {priority_units[p]}")
     ax2.axis("off")
 
     plt.tight_layout()
     plt.show()
 
+    if name:
+        fig.savefig(name)
     return 
 
 
@@ -124,7 +127,7 @@ def plot_route_folium(tsp_path, positions, nodes, total_cost, p = 0):
         background:white;padding:10px;border-radius:8px;box-shadow:2px 2px 10px rgba(0,0,0,0.1);">
         Time: {total_cost[0]:.2f} {priority_units[p]}, 
         Distance: {total_cost[1]:.2f} km, 
-        Cost: {total_cost[2]:.2f} {priority_units[p]}
+        Cost: {total_cost[2]:.2f} local_currency
         </h4>
         """
         m.get_root().html.add_child(folium.Element(title_html))

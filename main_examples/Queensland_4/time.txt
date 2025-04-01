@@ -1,0 +1,5 @@
+TSP Approximate Path: ['Port Douglas , Queensland', 'Cairns, Queensland', 'Townsville, Queensland', 'Noosa Heads, Queensland']
+Total time: 18.97 hours.
+Port Douglas  -> Cairns, car, time: 1.13 hours.
+Cairns -> Townsville, car, time: 4.17 hours.
+Townsville -> Noosa Heads, car, time: 13.66 hours.

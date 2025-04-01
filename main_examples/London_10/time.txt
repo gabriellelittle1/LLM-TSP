@@ -1,0 +1,11 @@
+TSP Approximate Path: ['The British Museum, London', 'Hyde Park, London', 'The Natural History Museum, London', 'The Victoria and Albert Museum, London', 'Buckingham Palace, London', 'The Palace of Westminster and Big Ben, London', 'Westminster Abbey, London', 'The London Eye, London', 'The Tower of London, London', 'The Shard, London']
+Total time: 1.26 hours.
+The British Museum -> Hyde Park, car, time: 0.31 hours.
+Hyde Park -> The Natural History Museum, car, time: 0.10 hours.
+The Natural History Museum -> The Victoria and Albert Museum, car, time: 0.03 hours.
+The Victoria and Albert Museum -> Buckingham Palace, car, time: 0.20 hours.
+Buckingham Palace -> The Palace of Westminster and Big Ben, bike, time: 0.11 hours.
+The Palace of Westminster and Big Ben -> Westminster Abbey, car, time: 0.06 hours.
+Westminster Abbey -> The London Eye, bike, time: 0.09 hours.
+The London Eye -> The Tower of London, car, time: 0.23 hours.
+The Tower of London -> The Shard, car, time: 0.15 hours.
