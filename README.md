@@ -18,6 +18,7 @@ conda activate tsp
 For this project, we used two API keys, one for OpenAI and one for GoogleMaps. Set up a file with the name 'hidden.env' and set it up with the following values defined: 
 
 OPENAI_API_KEY = ""
+
 maps_API_KEY = ""
 
 Ensure you add in your keys. 
