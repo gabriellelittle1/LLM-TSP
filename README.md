@@ -26,10 +26,15 @@ Ensure you add in your keys.
 ### 3. Run the notebook of your choice. 
 
 There are currently two working versions of this project. 
-1. #### basic.ipynb 
-A very basic version that uses birds-eye distance (as determined by GPT-4). 
-2. #### main.ipynb
+
+1. basic.ipynb
+   
+A very basic version that uses birds-eye distance (as determined by GPT-4).
+
+2. main.ipynb
+   
 A more interesting version that incorporates the GoogleMaps API to get more accurate information on distances and times for various forms of transport, as well as information from GPT-4. This includes a "priority" choice that allows a person to choose between time and distance as the distance metric for the graph. 
 
 There is also an incomplete more complicated version: 
-3. This version allows for cost to be included in the graph edge weightings. This means that the user can choose time, distance, cost, as well as a "total" priortity which takes into account all of the different measures between the places. 
+
+3. wip.ipynb
